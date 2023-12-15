@@ -22,7 +22,7 @@
 * Airflow 2.4
 * Python 3.8
 
-**[Файл с решением](https://github.com/MaximKotov-2022/SEB-TZ-3/blob/master/main_3.py)**
+**[Файл с решением](https://github.com/MaximKotov-2022/SEB-TZ/blob/master/main_3.py)**
 
 
 ### 4. SQL Big Query
@@ -45,6 +45,6 @@
 **Инструментарий:**
 BigQuery (песочница)
 
-**[Файл с решением](https://github.com/MaximKotov-2022/SEB-TZ-3/blob/master/main_4.sql)**
+**[Файл с решением](https://github.com/MaximKotov-2022/SEB-TZ/blob/master/main_4.sql)**
 
 **[Ссылка на решение](https://console.cloud.google.com/bigquery?sq=481397961595:a4742fef0f7b40b58c34db2239988ec1)**
